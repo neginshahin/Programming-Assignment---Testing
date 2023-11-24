@@ -1,0 +1,2 @@
+When running the tests using unittest.main(), it will execute these test methods and check if the actual results match the expected results. The sum function test passed, the expected result is 6, as 1 + 2 + 3 equals 6.
+The fraction test failed, The expected result is 1, but (1/4) + (1/4) + (2/5) does not equal 1.
